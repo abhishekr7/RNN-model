@@ -1,2 +1,2 @@
 # RNN-model
-Building a Recurrant Neural Network model with numpy to serve as a template for future reference
+Building a Recurrant Neural Network model with Numpy to serve as a template for future reference
